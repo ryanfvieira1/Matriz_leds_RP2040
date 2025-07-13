@@ -41,17 +41,15 @@ Animação em 5 frames representando uma explosão, acionada pelo botão **A** (
 
 ## Organização da Equipe
 - **Líder de Projeto:** [RYAN FARIAS] — responsável pelo gerenciamento do repositório e revisão dos pull requests.
-- **Desenvolvedor 1:** [JOÃO VICTOR GUIMARÃES] — responsável pela animação Flecha.
-- **Desenvolvedor 2:** [JOÃO VICTOR TEIXEIRA] — responsável pela animação Fogo de Explosão.
+- **Desenvolvedor 1:** [JOÃO VICTOR GUIMARÃES] — responsável pela animação da Flecha.
+- **Desenvolvedor 2:** [JOÃO VICTOR TEIXEIRA] — responsável pela animação de Explosão.
 
 ---
 
 ## Demonstração em Vídeo
-Assista ao vídeo demonstrando o funcionamento das animações:
 
  [Link para o vídeo]
-
----
+ https://www.canva.com/design/DAGtFa2kbBE/uXWfOpzzE2DsljQDr_9jNg/edit?utm_content=DAGtFa2kbBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Conclusão
 A atividade foi concluída com sucesso, implementando as animações propostas, debounce por software, e integração completa com a matriz de LEDs WS2812. O código está versionado no GitHub, e o vídeo de apresentação demonstra o resultado final.
